@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello World!
+
+This is my personal profile, for gaming and other fun stuff. For my professional work see @twchristian
 
 <!--
 **WildWeazel/WildWeazel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
