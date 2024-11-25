@@ -1,16 +1,15 @@
 ### Hello World!
 
-<!--
-**WildWeazel/WildWeazel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Current projects
+  * [C7 (working title)](https://github.com/C7-Game): An open source 4X game based on early Civilization, written in C# with Godot Engine
 
-Here are some ideas to get you started:
+- Past projects
+  * [NatureNet](https://github.com/naturenet): A social platform for environmental citizen science initiatives
+  * [Civcraft](https://github.com/Civcraft): A modded Minecraft server seeking to emulate human societies and economics
+    * [Bergecraft](https://github.com/Bergecraft): A spinoff R&D server to prototype radical new mechanics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wildweazel&layout=compact&card_width=250&langs_count=6&theme=cobalt">
+
+</p>
